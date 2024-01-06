@@ -1,2 +1,3 @@
 # Code-N-Code
-Code related to Code N Code Channel
+
+This repository will contain code examples from **CODE N CODE**  channel.
